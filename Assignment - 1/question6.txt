@@ -1,0 +1,9 @@
+01PWskills -> can not be a varible name because varible name can't start with number.
+
+ _FLOAT -> it is valid varible name.
+
+ int -> it can't be a varible name because it is an predefiend keyword.
+
+ FLOAT -> it is a valid varible name.
+
+ You will succeed -> it can not be a varible name because it has spaces in between which is not allowed.
